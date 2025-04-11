@@ -1,0 +1,4 @@
+https://www.tensorflow.org
+https://keras.io
+https://numpy.org/doc/2.2/user/absolute_beginners.html
+https://docs.python.org/3/library/collections.html#collections.deque
